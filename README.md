@@ -6,7 +6,7 @@ The given dataset includes 79 explanatory variables describing almost every aspe
 
 In this notebook I explain the steps I have done to build my model and achieve a good [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation) of 13,833 (the evaluation metric is the RMSE between the logarithm of the predicted value and the logarithm of the observed sales price. Taking logs have the benefits of: robustness to outliers, relative rather than absolute error, and giving the same penalty for overestimated and underestimated prices).
 
-Please find the notebook [**housing-prices.ipynb**](https://github.com/masalha-alaa/housing-prices/blob/master/housing-prices.ipynb) in the root directory, in which you'll find a complete walkthrough of my work, or head over to my [Kaggle profile](https://www.kaggle.com/alaamasalha/housing-prices) where you'll find the same notebook and see some of my other projects.
+Please find the notebook [**housing-prices.ipynb**](https://github.com/masalha-alaa/housing-prices/blob/master/housing-prices.ipynb) in the root directory (refresh if it doesn't load), in which you'll find a complete walkthrough of my work, or head over to my [Kaggle profile](https://www.kaggle.com/alaamasalha/housing-prices) where you'll find the same notebook and see some of my other projects.
 
 <img src="https://github.com/masalha-alaa/housing-prices/blob/master/docs/housing-prices-profile.png">
 
