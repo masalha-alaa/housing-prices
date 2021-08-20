@@ -1,6 +1,6 @@
 # Housing Prices Competition
 
-The Housinc Prices competition is a regression Machine Learning competition at Kaggle, in which the participants are challeneged to predict the prices of houses which are up to sale in Ames (a city in Iowa, USA).
+[The Housinc Prices competition](https://www.kaggle.com/c/home-data-for-ml-course) is a regression Machine Learning competition at Kaggle, in which the participants are challeneged to predict the prices of houses which are up to sale in Ames (a city in Iowa, USA).
 
 The given dataset includes 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa, such as: number of floors / parking lot size / type of road access (gravel / paved) / available utilities / etc.
 
